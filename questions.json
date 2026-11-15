@@ -1,0 +1,692 @@
+[
+  {
+    "id": "U1A1-01",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Describe the subjective nature of health and wellbeing",
+    "stimulus": "",
+    "question": "Using an example, explain why health and wellbeing is considered subjective.",
+    "markingGuide": [
+      "1 mark: shows that subjective means health and wellbeing is viewed differently by different people / based on personal perception (not objective measurement).",
+      "1 mark: gives a reason why perceptions differ, e.g. age, culture, past experiences, expectations, health status.",
+      "1 mark: a relevant example that clearly shows two people (or the same person at different times) judging health and wellbeing differently."
+    ],
+    "modelAnswer": "Health and wellbeing is subjective because it is based on each person’s own perception rather than an objective measure, so it means different things to different people. This is because perceptions are shaped by factors such as age, culture, values and previous experiences. For example, a 17-year-old with well-managed asthma may rate their health and wellbeing as excellent because they can still play football, while another young person with the same condition may rate theirs as poor because they compare themselves to friends who have no limitations.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-02",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Explain different dimensions of health and wellbeing",
+    "stimulus": "",
+    "question": "Explain the interrelationship between emotional health and wellbeing and spiritual health and wellbeing.",
+    "markingGuide": [
+      "1 mark: accurate characteristic of emotional health and wellbeing used in the link (e.g. ability to express feelings appropriately, resilience).",
+      "1 mark: accurate characteristic of spiritual health and wellbeing used in the link (e.g. sense of meaning and purpose, connection, peace of mind, values).",
+      "1 mark: explains how emotional health and wellbeing affects spiritual health and wellbeing (a clear causal link, not two separate descriptions).",
+      "1 mark: explains how spiritual health and wellbeing affects emotional health and wellbeing (the reverse direction).",
+      "Note: listing characteristics of each dimension without showing the connection does not earn the linking marks."
+    ],
+    "modelAnswer": "If a young person has optimal emotional health and wellbeing, they can recognise and express their feelings appropriately and are resilient when things go wrong. This helps them feel calm and settled, which can increase their sense of peace of mind and help them reflect on what gives their life meaning, promoting spiritual health and wellbeing. In turn, when a person has a strong sense of purpose and feels connected to a community, such as a religious group or sporting club, they are more likely to have people to share their feelings with and a reason to keep going during setbacks. This improves their resilience and ability to manage emotions, promoting emotional health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-03",
+    "marks": 2,
+    "command": "Outline",
+    "studyDesign": "Various definitions of health and wellbeing: physical, social, emotional, mental and spiritual dimensions",
+    "stimulus": "",
+    "question": "Outline what is meant by mental health and wellbeing and give one example of how it may be demonstrated by a young person.",
+    "markingGuide": [
+      "1 mark: mental health and wellbeing relates to the state of a person’s mind or brain and the ability to think and process information (may refer to thought patterns, self-esteem, stress or anxiety levels).",
+      "1 mark: a relevant example of a young person demonstrating it, e.g. using logic to plan study before exams, maintaining positive self-esteem, managing stress.",
+      "Note: confusing mental with emotional (e.g. only ‘expressing feelings’) does not earn the definition mark."
+    ],
+    "modelAnswer": "Mental health and wellbeing refers to the current state of a person’s mind or brain and their ability to think and process information, including thought patterns, self-esteem and levels of stress. For example, a young person with optimal mental health and wellbeing may be able to stay focused and use logical thinking to plan a study timetable during exam week without feeling overwhelmed by stress.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-04",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Prerequisites for health, as determined by the WHO",
+    "stimulus": "Case study: Amira\n\nAmira, 17, arrived in Australia two years ago with her parents and younger brother after their family fled armed conflict. They now live in a two-bedroom rented unit in Melbourne. Amira attends a local secondary college, where she receives English language support, and she plans to study nursing. Her father has recently found full-time work.\n\nQuestion: Identify two WHO prerequisites for health that Amira now has better access to, and explain how improved access to each may promote her health and wellbeing.",
+    "question": "Identify two WHO prerequisites for health that Amira now has better access to, and explain how improved access to each may promote her health and wellbeing.",
+    "markingGuide": [
+      "1 mark each (×2): correctly identifies two WHO prerequisites supported by the case (e.g. peace, shelter, education, income). Food, social justice or equity only if clearly linked to the case.",
+      "1 mark each (×2): explains how improved access to each prerequisite promotes a specific dimension of health and wellbeing (or health status) for Amira, using case details.",
+      "Note: each explanation must use a different prerequisite and link to a specific aspect of health and wellbeing; generic statements such as ‘improves her health’ do not earn marks."
+    ],
+    "modelAnswer": "Peace: Amira’s family fled armed conflict and now live in a peaceful country. This means Amira is no longer exposed to violence or the constant fear of harm, which lowers her stress and anxiety levels and promotes her mental health and wellbeing.\n\nEducation: Amira attends a local secondary college and receives English language support. This improves her literacy and gives her the qualifications to pursue her goal of studying nursing. Having a goal and a sense of purpose for her future promotes her spiritual health and wellbeing, and learning alongside classmates helps her build friendships, promoting social health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-05",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Youth and Aboriginal and Torres Strait Islander perspectives on health and wellbeing",
+    "stimulus": "",
+    "question": "Outline two features of Aboriginal and Torres Strait Islander perspectives on health and wellbeing, and explain how one of these features can promote spiritual health and wellbeing.",
+    "markingGuide": [
+      "1 mark each (×2): two accurate features, e.g. a holistic view including the wellbeing of the whole community; connection to Country (land, sea, waters); connection to culture, ancestry and kinship; health linked to self-determination.",
+      "2 marks: explains how one feature promotes spiritual health and wellbeing, e.g. connection to Country provides a sense of belonging, identity and purpose. A clear link is required for the second mark.",
+      "Note: abbreviating ‘Aboriginal and Torres Strait Islander’ is culturally inappropriate. Mention this in feedback but do not deduct marks for it."
+    ],
+    "modelAnswer": "One feature is that health and wellbeing is viewed holistically, including the social, emotional and cultural wellbeing of the whole community, not just the absence of illness in an individual. A second feature is the importance of connection to Country, culture and kinship.\n\nConnection to Country can promote spiritual health and wellbeing because caring for and spending time on traditional lands strengthens a person’s sense of identity and belonging, and links them to their ancestors and cultural values. This gives them a sense of meaning and purpose in life, which are key characteristics of optimal spiritual health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-06",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Indicators used to measure health status, such as incidence and prevalence",
+    "stimulus": "",
+    "question": "Explain the difference between incidence and prevalence, using asthma among young Australians as an example.",
+    "markingGuide": [
+      "1 mark: incidence is the number or rate of NEW cases of a condition in a given period (usually 12 months).",
+      "1 mark: prevalence is the TOTAL number or rate of cases of a condition at a given time.",
+      "1 mark: correctly applies both to asthma, e.g. incidence = young people newly diagnosed with asthma in a year; prevalence = all young people living with asthma at that time."
+    ],
+    "modelAnswer": "Incidence refers to the number or rate of new cases of a condition in a population during a given period, usually 12 months. Prevalence refers to the total number or rate of cases of a condition in a population at a given time, including both new and existing cases. For example, the incidence of asthma among young Australians would be the number of 12–24 year olds newly diagnosed with asthma in a year, while the prevalence would be the total number of young people living with asthma in that year, including those diagnosed in childhood.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-07",
+    "marks": 3,
+    "command": "Describe",
+    "studyDesign": "Indicators used to measure health status: burden of disease",
+    "stimulus": "",
+    "question": "Describe what is meant by burden of disease and outline one reason it is a useful indicator for measuring the health status of youth.",
+    "markingGuide": [
+      "1 mark: burden of disease measures the impact of illness, injury and premature death on a population.",
+      "1 mark: it is measured in DALYs; one DALY = one year of healthy life lost (combines YLL from premature death and YLD from living with illness/injury).",
+      "1 mark: a valid reason it is useful for youth, e.g. many youth conditions (mental health conditions, asthma) cause illness rather than death, so DALYs capture their impact; allows comparison of fatal and non-fatal conditions to prioritise funding."
+    ],
+    "modelAnswer": "Burden of disease is a measure of the impact of illness, injury and premature death on a population. It is measured in disability-adjusted life years (DALYs), where one DALY equals one year of healthy life lost, combining years of life lost due to premature death (YLL) and years lived with illness or disability (YLD). It is useful for youth because many conditions affecting young people, such as anxiety and depression, cause high levels of ill health but few deaths. Burden of disease captures this non-fatal impact, so it helps governments see which conditions most reduce young people’s healthy life and prioritise funding.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-08",
+    "marks": 2,
+    "command": "Outline",
+    "studyDesign": "Indicators used to measure health status: self-assessed health status",
+    "stimulus": "",
+    "question": "Outline one strength and one limitation of self-assessed health status as an indicator of the health status of youth.",
+    "markingGuide": [
+      "1 mark: a valid strength, e.g. captures the person’s own perception across all dimensions including mental and emotional; easy and inexpensive to collect through surveys.",
+      "1 mark: a valid limitation, e.g. subjective, so two young people with the same health may rate it differently; may be influenced by mood on the day or wanting to give a socially acceptable answer.",
+      "Note: a strength or limitation that is only stated (‘it is subjective’) without a brief outline of why it matters earns the mark only if the meaning is clear."
+    ],
+    "modelAnswer": "One strength is that it reflects how young people themselves perceive their overall health and wellbeing, including mental and emotional aspects that other indicators such as mortality do not capture. One limitation is that it is subjective, so two young people with the same level of health may rate it very differently depending on their expectations or mood on the day, making comparisons less reliable.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-09",
+    "marks": 2,
+    "command": "Describe",
+    "studyDesign": "Draw conclusions from health data about the health status of youth in Australia",
+    "stimulus": "Table 1: Hospitalisation rate for injury, young people aged 15–24, by remoteness (per 100 000 population)\n\n  Remoteness area          2014    2018    2022\n  ------------------------ ------- ------- -------\n  Major cities             1 780   1 720   1 690\n  Inner regional           2 410   2 380   2 350\n  Remote and very remote   3 950   4 060   4 120\n\nHypothetical data created for practice purposes.\n\nQuestion: Using data from Table 1, describe one difference and one trend in hospitalisation rates for injury among young people.",
+    "question": "Using data from Table 1, describe one difference and one trend in hospitalisation rates for injury among young people.",
+    "markingGuide": [
+      "1 mark: a difference between groups using data from both groups, e.g. in 2022 remote/very remote youth had 4 120 per 100 000 compared to 1 690 in major cities.",
+      "1 mark: a trend over time using data from at least two years, e.g. remote rates increased from 3 950 (2014) to 4 120 (2022), OR major cities decreased from 1 780 to 1 690.",
+      "Note: data must be quoted accurately with units (per 100 000) and the year. Statements without data do not earn the marks."
+    ],
+    "modelAnswer": "Difference: In 2022, young people living in remote and very remote areas had a hospitalisation rate for injury of 4 120 per 100 000, more than double the rate of 1 690 per 100 000 for young people in major cities.\n\nTrend: The hospitalisation rate for young people in remote and very remote areas increased from 3 950 per 100 000 in 2014 to 4 120 per 100 000 in 2022, while the rate in major cities decreased over the same period.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-10",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Sociocultural factors that contribute to variations in health outcomes for youth",
+    "stimulus": "Table 1: Hospitalisation rate for injury, young people aged 15–24, by remoteness (per 100 000 population)\n\n  Remoteness area          2014    2018    2022\n  ------------------------ ------- ------- -------\n  Major cities             1 780   1 720   1 690\n  Inner regional           2 410   2 380   2 350\n  Remote and very remote   3 950   4 060   4 120\n\nHypothetical data created for practice purposes.\n\nQuestion: Explain how one sociocultural factor may contribute to the higher hospitalisation rate for injury among young people in remote and very remote areas shown in Table 1.",
+    "question": "Explain how one sociocultural factor may contribute to the higher hospitalisation rate for injury among young people in remote and very remote areas shown in Table 1.",
+    "markingGuide": [
+      "1 mark: identifies a relevant sociocultural factor (e.g. education, income, peer group, family, health literacy).",
+      "1 mark: explains how the factor differs for or affects remote youth (the cause).",
+      "1 mark: links the factor to an increased risk of injury and/or hospitalisation (the outcome), stating the direction of the impact.",
+      "Note: physical environment factors alone (e.g. ‘long distances’, ‘dangerous roads’) are not sociocultural and do not earn the factor mark unless linked to a sociocultural factor."
+    ],
+    "modelAnswer": "One sociocultural factor is income. Young people in remote areas are more likely to work in lower-paid or physically risky jobs such as farming, and families may have less money to afford newer, safer cars. Driving older cars without modern safety features on rural roads increases the likelihood of serious injury in a crash. This contributes to the higher rate of hospitalisation for injury among remote youth compared to youth in major cities.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-11",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Sociocultural factors that contribute to variations in health outcomes for youth, such as peer group",
+    "stimulus": "",
+    "question": "Explain how the peer group can act as both a risk factor and a protective factor for the health and wellbeing of young people.",
+    "markingGuide": [
+      "2 marks: explains peer group as a risk factor. Requires a peer behaviour or influence AND the resulting negative health outcome (e.g. pressure to vape leading to increased risk of respiratory illness, reducing physical health and wellbeing).",
+      "2 marks: explains peer group as a protective factor. Requires a peer behaviour or influence AND the resulting positive health outcome (e.g. friends who play sport encourage participation, increasing fitness or social connection).",
+      "Note: 1 mark for each side if the influence is identified but not linked to a specific health outcome."
+    ],
+    "modelAnswer": "The peer group can be a risk factor if a young person’s friends pressure them to engage in risky behaviours such as vaping. Wanting to fit in, the young person may begin vaping regularly, increasing their exposure to nicotine and harmful chemicals and their risk of respiratory conditions, reducing their physical health and wellbeing.\n\nThe peer group can also be a protective factor. If a young person’s friends play in a local basketball team and encourage them to join, they are more likely to be physically active several times a week, improving their cardiovascular fitness. Training with friends also strengthens their sense of belonging, promoting social health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A1-12",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Sociocultural factors that contribute to variations in health outcomes for youth, such as education",
+    "stimulus": "",
+    "question": "Explain how a young person’s level of education can contribute to variations in their health outcomes.",
+    "markingGuide": [
+      "1 mark: higher (or lower) education is linked to differences in health literacy and knowledge or to future employment and income.",
+      "1 mark: explains the mechanism, e.g. more able to understand health information and make informed decisions, or access to higher-paying employment and therefore resources.",
+      "1 mark: links to a specific health outcome with direction, e.g. lower rates of smoking-related conditions, higher self-assessed health status, lower psychological distress."
+    ],
+    "modelAnswer": "Young people who complete higher levels of education generally develop greater health literacy, so they are better able to find, understand and use health information such as nutrition labels or advice about the harms of vaping. As a result they are more likely to make healthier choices and seek help early when unwell. Higher education also increases the likelihood of secure, well-paid employment, reducing financial stress. These young people are therefore more likely to have lower rates of preventable conditions and a higher self-assessed health status than those who leave school early.\n\n------------------------------------------------------------------------\n\nU1 AOS2: Youth health and wellbeing",
+    "mode": "points"
+  },
+  {
+    "id": "U1A2-01",
+    "marks": 4,
+    "command": "Describe",
+    "studyDesign": "Government and non-government programs relating to youth health and wellbeing",
+    "stimulus": "",
+    "question": "Describe one government program and one non-government program that aim to improve the health and wellbeing of young Australians.",
+    "markingGuide": [
+      "1 mark: names a relevant government (or government-funded) youth health program or initiative, correctly classified.",
+      "1 mark: describes what it does or how it targets youth.",
+      "1 mark: names a relevant non-government organisation or program, correctly classified.",
+      "1 mark: describes what it does or how it targets youth.",
+      "Note: accept any accurate examples taught in class. If you are unsure whether an example is accurately described, do not penalise; flag it for the teacher to check."
+    ],
+    "modelAnswer": "Government program: headspace is the National Youth Mental Health Foundation, funded by the Australian Government. It provides free or low-cost early intervention mental health services for young people aged 12–25, including counselling, GP services and alcohol and other drug support, through centres across Australia and online.\n\nNon-government program: ReachOut is a not-for-profit organisation that provides an online mental health service for young people. It offers articles, peer-support forums and tools that young people can use anonymously at any time to learn coping strategies and find out where to get help.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A2-02",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Analyse factors that influence the creation and implementation of, and access to, programs that target youth health such as equity, social justice, community values and funding",
+    "stimulus": "",
+    "question": "Explain how equity and funding can each influence the implementation of a program that targets youth health.",
+    "markingGuide": [
+      "2 marks: equity. Shows understanding (fairness, allocating resources according to need) and explains how this shapes implementation, e.g. programs placed in areas of greatest need, or offered free to remove cost barriers.",
+      "2 marks: funding. Explains how the amount or source of funding affects implementation, e.g. number of staff and locations, how long the program runs, whether it is free.",
+      "Note: 1 mark per factor if it is only defined and not applied to implementation."
+    ],
+    "modelAnswer": "Equity means allocating resources according to need so that all young people have a fair opportunity to be healthy. A program guided by equity may be implemented first in areas where youth health outcomes are poorest, such as remote communities, and may be offered free or online so that cost and distance do not prevent young people from accessing it.\n\nFunding determines how widely and for how long a program can be implemented. A program with ongoing government funding can employ more trained staff, open in more locations and run for several years, while a program relying on short-term grants may only reach a small number of young people or may close before it achieves lasting improvements.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A2-03",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Features of one health focus: impact on different dimensions of health and wellbeing",
+    "stimulus": "Source: Rivertown Youth Alcohol Survey\n\nA regional council surveyed 600 residents aged 16–24. 38% reported drinking at a level that put them at risk of injury on a single occasion at least once a month. Respondents listed boredom, ‘nothing else to do on weekends’ and pressure from friends as the main reasons. The council has since funded Late Night Rivertown, a free, alcohol-free Friday night event run by a youth committee, with music, food trucks and a free bus home.\n\nFictional survey data created for practice purposes.\n\nQuestion: Explain how risky alcohol consumption could impact two different dimensions of health and wellbeing for young people in Rivertown.",
+    "question": "Explain how risky alcohol consumption could impact two different dimensions of health and wellbeing for young people in Rivertown.",
+    "markingGuide": [
+      "2 marks per dimension (×2): names a dimension and explains a specific, plausible impact of risky drinking on it (cause → effect → dimension).",
+      "Note: the two impacts must be different and must state the direction (e.g. reduces, increases). Generic statements such as ‘bad for physical health’ earn at most 1 mark."
+    ],
+    "modelAnswer": "Physical: Drinking at risky levels on a single occasion impairs coordination and judgement, increasing the likelihood of falls, fights or car crashes. This increases the risk of injury, reducing the functioning of the body and its systems and therefore physical health and wellbeing.\n\nSocial: A young person who regularly drinks heavily may say or do things they regret, leading to arguments with friends or family. This can damage the quality of their relationships and reduce their support network, decreasing social health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A2-04",
+    "marks": 4,
+    "command": "Describe",
+    "studyDesign": "Features of one health focus: risk and protective factors",
+    "stimulus": "Source: Rivertown Youth Alcohol Survey\n\nA regional council surveyed 600 residents aged 16–24. 38% reported drinking at a level that put them at risk of injury on a single occasion at least once a month. Respondents listed boredom, ‘nothing else to do on weekends’ and pressure from friends as the main reasons. The council has since funded Late Night Rivertown, a free, alcohol-free Friday night event run by a youth committee, with music, food trucks and a free bus home.\n\nFictional survey data created for practice purposes.\n\nQuestion: Using information from the source, describe one risk factor and one protective factor for risky alcohol consumption among young people in Rivertown.",
+    "question": "Using information from the source, describe one risk factor and one protective factor for risky alcohol consumption among young people in Rivertown.",
+    "markingGuide": [
+      "1 mark: identifies a risk factor from the source (e.g. boredom or few weekend activities, peer pressure).",
+      "1 mark: describes how it increases the likelihood of risky drinking.",
+      "1 mark: identifies a protective factor from or implied by the source (e.g. Late Night Rivertown alcohol-free event, free bus home, youth committee involvement).",
+      "1 mark: describes how it reduces the likelihood or impact of risky drinking.",
+      "Note: students must use the source for at least one factor to access full marks."
+    ],
+    "modelAnswer": "Risk factor: Many young people in Rivertown report ‘nothing else to do on weekends’. Boredom can lead young people to gather and drink as their main social activity, increasing the likelihood they drink at risky levels.\n\nProtective factor: Late Night Rivertown provides a free, alcohol-free event every Friday night with music and food. This gives young people an enjoyable alternative way to socialise without alcohol, reducing the likelihood that they will drink at risky levels on that night. The free bus home also reduces the risk of drink-driving.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A2-05",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Features of one health focus: direct, indirect and intangible costs",
+    "stimulus": "",
+    "question": "Using risky alcohol consumption as the example, explain what is meant by an intangible cost and give two examples.",
+    "markingGuide": [
+      "1 mark: intangible costs are costs that cannot be given a dollar value, such as pain, suffering, grief or reduced quality of life.",
+      "1 mark each (×2): two relevant, distinct examples linked to alcohol, e.g. grief of a family after an alcohol-related death; embarrassment or shame; anxiety of parents; loss of friendships."
+    ],
+    "modelAnswer": "An intangible cost is a cost that cannot be measured in dollars, such as pain, suffering or reduced quality of life. For example, a young person injured in an alcohol-related car crash may experience ongoing pain and fear of travelling in cars. Their family may also experience worry and grief, especially if the crash causes a death.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A2-06",
+    "marks": 3,
+    "command": "Describe",
+    "studyDesign": "Opportunities for youth advocacy and action on a personal and community level",
+    "stimulus": "Source: Rivertown Youth Alcohol Survey\n\nA regional council surveyed 600 residents aged 16–24. 38% reported drinking at a level that put them at risk of injury on a single occasion at least once a month. Respondents listed boredom, ‘nothing else to do on weekends’ and pressure from friends as the main reasons. The council has since funded Late Night Rivertown, a free, alcohol-free Friday night event run by a youth committee, with music, food trucks and a free bus home.\n\nFictional survey data created for practice purposes.\n\nQuestion: Describe one way young people in Rivertown could take action at a community level to reduce risky drinking, and outline how this action could improve health outcomes.",
+    "question": "Describe one way young people in Rivertown could take action at a community level to reduce risky drinking, and outline how this action could improve health outcomes.",
+    "markingGuide": [
+      "1 mark: a relevant community-level action, e.g. joining the youth committee, running a social media awareness campaign, petitioning council for more alcohol-free venues.",
+      "1 mark: describes how the action would work or who it would reach.",
+      "1 mark: links the action to an improved health outcome with direction, e.g. fewer alcohol-related injuries or hospitalisations among youth.",
+      "Note: personal-level actions only (e.g. ‘drink less yourself’) do not earn the first mark."
+    ],
+    "modelAnswer": "Young people could join the Late Night Rivertown youth committee and use their own social media accounts to promote the event and share messages about safe partying. Because the messages come from peers, other young people may be more likely to attend and see that they can have fun without alcohol. This could reduce the number of young people drinking at risky levels, leading to fewer alcohol-related injuries and hospitalisations.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A2-07",
+    "marks": 4,
+    "command": "Analyse",
+    "studyDesign": "Analyse factors that contribute to inequalities in the health status of Australia’s youth",
+    "stimulus": "",
+    "question": "Analyse why young people who identify as LGBTIQA+ may experience higher rates of psychological distress than other young Australians.",
+    "markingGuide": [
+      "1 mark: identifies a contributing factor, e.g. discrimination, bullying, harassment, family rejection, social exclusion, barriers to inclusive healthcare.",
+      "1 mark: explains how this factor leads to higher psychological distress (the mechanism).",
+      "1 mark: identifies a second factor OR shows how factors interact (e.g. rejection reduces the support needed to cope with discrimination).",
+      "1 mark: draws an analytical conclusion linking to a health status difference (higher psychological distress than other youth), with direction."
+    ],
+    "modelAnswer": "LGBTIQA+ young people are more likely to experience discrimination and bullying at school or online because of their sexuality or gender identity. Repeated exposure to harassment increases feelings of fear, worthlessness and anxiety, which raises levels of psychological distress. This impact is greater when a young person also experiences rejection from family, because they lose a key source of support that would usually help them cope with stress. Some LGBTIQA+ youth also avoid health services because they fear being judged, so mental health concerns may go untreated. Together these factors mean that LGBTIQA+ youth experience higher rates of high or very high psychological distress than other young Australians.\n\n------------------------------------------------------------------------\n\nU1 AOS3: Health and nutrition",
+    "mode": "points"
+  },
+  {
+    "id": "U1A3-01",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "The function and food sources of major nutrients: carbohydrates (including fibre)",
+    "stimulus": "",
+    "question": "Explain the role of fibre in promoting health outcomes and identify two food sources of fibre.",
+    "markingGuide": [
+      "1 mark: an accurate function, e.g. adds bulk to faeces and keeps bowels regular; slows digestion so promotes satiety; helps lower cholesterol.",
+      "1 mark: links the function to a health outcome with direction, e.g. reduces the risk of constipation, bowel cancer, obesity, CVD or type 2 diabetes.",
+      "1 mark: two correct food sources (e.g. wholegrain bread, legumes, fruit with skin, vegetables, oats). Both needed for the mark."
+    ],
+    "modelAnswer": "Fibre adds bulk to faeces and helps them move through the digestive system, keeping bowel movements regular and reducing the risk of constipation and bowel cancer. Fibre also helps a person feel full for longer, which can reduce overeating and therefore lower the risk of obesity and type 2 diabetes. Good sources of fibre include wholegrain bread and legumes such as lentils.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A3-02",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "The function and food sources of major nutrients: vitamin D and calcium",
+    "stimulus": "",
+    "question": "Explain the relationship between vitamin D and calcium, and outline one long-term consequence for a young person who does not get enough of either.",
+    "markingGuide": [
+      "1 mark: vitamin D is needed for the absorption of calcium from the digestive system.",
+      "1 mark: calcium is needed to build strong bones and teeth, and youth is a key time for reaching peak bone mass.",
+      "1 mark: a long-term consequence, e.g. lower peak bone mass leading to increased risk of osteoporosis or fractures later in life.",
+      "Note: short-term only consequences do not earn the final mark."
+    ],
+    "modelAnswer": "Vitamin D helps the body absorb calcium from food in the digestive system, so even if a young person eats enough calcium, low vitamin D means less of it can be used. Calcium is then needed to build bone density during youth, when peak bone mass is being developed. If a young person lacks either nutrient, they may not reach their peak bone mass, increasing their risk of osteoporosis and bone fractures later in life.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A3-03",
+    "marks": 4,
+    "command": "Describe",
+    "studyDesign": "Describe the possible consequences of nutritional imbalance on short and long-term health outcomes for youth",
+    "stimulus": "",
+    "question": "Describe one short-term and one long-term consequence of a diet high in sodium for young people.",
+    "markingGuide": [
+      "2 marks: a short-term consequence, e.g. fluid retention, bloating or thirst, with a brief description of why sodium causes it.",
+      "2 marks: a long-term consequence, e.g. hypertension (high blood pressure) leading to increased risk of CVD, stroke or kidney disease.",
+      "Note: 1 mark each if named without description. Consequences must be correctly classified as short- or long-term."
+    ],
+    "modelAnswer": "Short-term: A diet high in sodium causes the body to retain extra fluid to balance sodium levels in the blood. This can lead to bloating, puffiness and increased thirst.\n\nLong-term: Over many years, excess sodium increases the volume of fluid in the blood vessels, raising blood pressure. Ongoing hypertension puts strain on the heart and blood vessels, increasing the young person’s risk of cardiovascular disease and stroke as an adult.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A3-04",
+    "marks": 4,
+    "command": "Evaluate",
+    "studyDesign": "Evaluate the effectiveness of food selection models: the Healthy Eating Pyramid",
+    "stimulus": "",
+    "question": "Evaluate the effectiveness of the Healthy Eating Pyramid in promoting healthy eating among young people.",
+    "markingGuide": [
+      "1 mark: a strength, explained (e.g. simple visual showing proportions with larger layers to eat most, easy for youth to understand; promotes water and limiting salt and added sugar).",
+      "1 mark: a second strength OR further development of the first.",
+      "1 mark: a limitation, explained (e.g. no serve sizes or recommended serves by age; does not show specific foods for youth; does not account for cultural foods or individual needs).",
+      "1 mark: an overall judgement about its effectiveness for youth that follows from the points made.",
+      "Note: without a clear judgement, maximum 3 marks."
+    ],
+    "modelAnswer": "The Healthy Eating Pyramid is effective because it is a simple visual that young people can understand quickly: foods in the large bottom layers, such as vegetables, fruits and grains, should make up most of the diet, while foods in the small top layer, such as healthy fats, should be eaten in small amounts. It also promotes drinking water and limiting salt and added sugar, which targets common problems in youth diets such as high soft drink intake. However, it does not give the recommended number of serves or serve sizes for young people, who have higher energy and nutrient needs during growth. Without this they cannot tell whether they are eating enough of each layer. Overall, the Healthy Eating Pyramid is moderately effective as a general guide for young people, but it is more useful when combined with a tool that gives specific serve recommendations, such as the Australian Dietary Guidelines.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A3-05",
+    "marks": 4,
+    "command": "Evaluate",
+    "studyDesign": "Sources of nutrition information and methods to evaluate its validity",
+    "stimulus": "Social media post\n\n“@GlowWithJess (1.2M followers): I lost 4 kg in 7 days with PureSlim Detox Tea!! It flushes out toxins and burns fat while you sleep. No need to change your diet. Use my code JESS20 for 20% off. #ad #wellness #detox”\n\nFictional post created for practice purposes.\n\nQuestion: Using two criteria, evaluate the validity of the nutrition information in the social media post.",
+    "question": "Using two criteria, evaluate the validity of the nutrition information in the social media post.",
+    "markingGuide": [
+      "1 mark: first criterion identified and applied to the post (e.g. qualifications or expertise of the author: an influencer with no stated nutrition qualification).",
+      "1 mark: second criterion identified and applied (e.g. bias or conflict of interest: #ad and a discount code means Jess earns money from sales; or claims too good to be true / not supported by evidence: ‘burns fat while you sleep’, ‘no need to change your diet’).",
+      "1 mark: explains why this reduces validity for at least one criterion.",
+      "1 mark: an overall judgement that the information is not valid / not reliable.",
+      "Note: criteria must be applied to the post; listing criteria alone earns no marks."
+    ],
+    "modelAnswer": "One criterion is the qualifications of the source. The post is written by an influencer, and there is no evidence that Jess is a dietitian or has any nutrition qualification, so she may not have the expertise to give accurate advice. A second criterion is whether the source is biased. The post includes ‘#ad’ and a discount code, which shows Jess is paid to promote the tea and earns money from sales, so she has a reason to exaggerate its benefits. The claims that the tea ‘burns fat while you sleep’ and that there is ‘no need to change your diet’ are also not supported by any evidence and sound too good to be true. Overall, the nutrition information in this post is not valid and young people should not rely on it.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A3-06",
+    "marks": 4,
+    "command": "Describe",
+    "studyDesign": "Sociocultural factors, including commercial factors, that act as barriers to healthy eating among youth: marketing tactics",
+    "stimulus": "",
+    "question": "Describe two tactics used to market discretionary foods to young people and explain how each may act as a barrier to healthy eating.",
+    "markingGuide": [
+      "1 mark each (×2): a relevant tactic described, e.g. influencer or celebrity endorsement, targeted social media ads based on data, sponsorship of sport or music events, bright packaging or collectible promotions, price discounts or meal deals, product placement in games.",
+      "1 mark each (×2): explains how the tactic makes youth more likely to choose discretionary foods (the barrier).",
+      "Note: the two tactics must be different."
+    ],
+    "modelAnswer": "Influencer endorsement: Food companies pay popular sports or gaming influencers to show themselves enjoying energy drinks or fast food. Young people who admire these influencers may want to copy them, making them more likely to buy these drinks instead of water.\n\nMeal deals and discounts: Fast-food outlets offer cheap combo deals and app-only discounts that make a burger, fries and soft drink cheaper than a healthier option. Because many young people have limited money, the low price encourages them to choose discretionary foods more often, which acts as a barrier to healthy eating.",
+    "mode": "points"
+  },
+  {
+    "id": "U1A3-07",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Analyse sociocultural factors that contribute to healthy eating among youth",
+    "stimulus": "Case study: Jai\n\nJai, 16, catches the bus to school with friends who often stop at a fast-food outlet on the way home. He follows several sports influencers who promote energy drinks. At home his mum cooks most evening meals, and Jai has recently started a Food Technology elective at school where he is learning to cook simple, low-cost meals.\n\nQuestion: Using information from the case study, explain how one sociocultural factor acts as an enabler and one acts as a barrier to healthy eating for Jai.",
+    "question": "Using information from the case study, explain how one sociocultural factor acts as an enabler and one acts as a barrier to healthy eating for Jai.",
+    "markingGuide": [
+      "2 marks: an enabler from the case (e.g. family: mum cooks most meals; education: Food Technology elective), explaining how it makes healthy eating more likely.",
+      "2 marks: a barrier from the case (e.g. peer group: stopping at fast-food outlets; commercial: influencers promoting energy drinks), explaining how it makes healthy eating less likely.",
+      "Note: must use case details for full marks. Each factor must be different."
+    ],
+    "modelAnswer": "Enabler (education): Jai is learning to cook simple, low-cost meals in his Food Technology elective. This gives him the skills and confidence to prepare healthy food for himself, making him more likely to eat home-cooked meals with vegetables rather than relying on takeaway.\n\nBarrier (peer group): Jai’s friends often stop at a fast-food outlet on the way home from school. Wanting to fit in and spend time with them, Jai is likely to buy foods high in saturated fat, salt and sugar, increasing his intake of discretionary foods and making healthy eating less likely.\n\n------------------------------------------------------------------------\n\nU2 AOS1: Developmental transitions",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-01",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Explain the developmental changes that characterise the transition from youth to adulthood",
+    "stimulus": "",
+    "question": "Explain two different types of development that occur during the transition from youth to adulthood. Use a different type of development for each.",
+    "markingGuide": [
+      "2 marks each (×2): names a type of development (physical, social, emotional or intellectual) and explains a specific change that occurs in the youth-to-adulthood transition.",
+      "Note: the two must be different types. A change that occurs in a different lifespan stage (e.g. learning to walk) earns no marks."
+    ],
+    "modelAnswer": "Intellectual development: During the transition to adulthood, young people develop the ability to think abstractly and consider hypothetical situations. This allows them to weigh up long-term consequences when making decisions, such as choosing a career pathway or deciding whether to move out of home.\n\nSocial development: Young people gradually become more independent of their family, often moving out of home, starting full-time work or study and forming their own long-term relationships. Their social network shifts from mainly family and school friends to colleagues and partners.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-02",
+    "marks": 3,
+    "command": "Describe",
+    "studyDesign": "Perceptions of youth and adulthood as stages of the human lifespan",
+    "stimulus": "",
+    "question": "Describe how perceptions of when a person becomes an adult may differ, using two examples.",
+    "markingGuide": [
+      "1 mark: shows that perceptions of adulthood vary between people, cultures or over time; there is no single agreed point.",
+      "1 mark each (×2): two distinct, relevant examples, e.g. legal age 18 (vote, drink alcohol); cultural or religious ceremonies (bar or bat mitzvah); milestones such as moving out, financial independence, becoming a parent; being trusted with responsibility."
+    ],
+    "modelAnswer": "Perceptions of when adulthood begins differ because people and cultures value different milestones. In Australia, many people see turning 18 as the start of adulthood because a person can legally vote, sign contracts and buy alcohol. Others believe a person only becomes an adult when they are financially independent and have moved out of their parents’ home, which for many young Australians now happens in their mid to late twenties.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-03",
+    "marks": 3,
+    "command": "Identify",
+    "studyDesign": "Key characteristics of healthy and respectful relationships",
+    "stimulus": "Case study: Mia\n\nMia, 17, has been in a relationship with Ethan for six months. Ethan regularly checks Mia’s phone, gets angry when she spends time with her netball team and tells her what to wear. Mia has started skipping training and says she feels ‘on edge’ all the time.\n\nQuestion: Identify three characteristics of an unhealthy relationship shown in the case study, using evidence from the case for each.",
+    "question": "Identify three characteristics of an unhealthy relationship shown in the case study, using evidence from the case for each.",
+    "markingGuide": [
+      "1 mark each (×3): an unhealthy characteristic with matching case evidence, e.g. lack of trust or invasion of privacy (checks her phone); controlling behaviour (tells her what to wear); isolation from friends or activities (gets angry when she goes to netball).",
+      "Note: a characteristic without case evidence earns no mark."
+    ],
+    "modelAnswer": "Lack of trust and privacy: Ethan regularly checks Mia’s phone.\n\nControlling behaviour: Ethan tells Mia what to wear.\n\nIsolating Mia from others: Ethan gets angry when Mia spends time with her netball team.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-04",
+    "marks": 4,
+    "command": "Analyse",
+    "studyDesign": "Analyse the role of healthy and respectful relationships in the achievement of optimal health and wellbeing",
+    "stimulus": "Case study: Mia\n\nMia, 17, has been in a relationship with Ethan for six months. Ethan regularly checks Mia’s phone, gets angry when she spends time with her netball team and tells her what to wear. Mia has started skipping training and says she feels ‘on edge’ all the time.\n\nQuestion: Analyse how Mia’s relationship may be affecting two dimensions of her health and wellbeing.",
+    "question": "Analyse how Mia’s relationship may be affecting two dimensions of her health and wellbeing.",
+    "markingGuide": [
+      "2 marks each (×2): a dimension with a specific impact explained using case evidence (e.g. emotional: feeling ‘on edge’ shows difficulty managing feelings; social: skipping training reduces time with friends; physical: less exercise reduces fitness; mental: lower self-esteem and higher anxiety).",
+      "Note: must state direction (reduces / decreases). Analysis requires the link between the relationship behaviour and the outcome, not just naming the dimension."
+    ],
+    "modelAnswer": "Social health and wellbeing: Because Ethan gets angry when Mia spends time with her netball team, she has started skipping training. This reduces the time she spends with her teammates and weakens her support network, decreasing her social health and wellbeing.\n\nMental health and wellbeing: Ethan’s constant checking of her phone and control over what she wears may make Mia feel she is not trusted or capable of making her own decisions. Together with feeling ‘on edge’ all the time, this is likely to increase her stress and anxiety and lower her self-esteem, reducing her mental health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-05",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "The availability of social and emotional support and resources for parents",
+    "stimulus": "Case study: Priya and Luke\n\nPriya, 32, and Luke, 34, are expecting their first baby in three months. They recently moved to a new suburb for Luke’s job and do not know anyone locally. Priya has a history of anxiety and is worried about how she will cope after the birth.\n\nQuestion: Describe two sources of social or emotional support Priya and Luke could use, and explain how each could promote their health and wellbeing as new parents.",
+    "question": "Describe two sources of social or emotional support Priya and Luke could use, and explain how each could promote their health and wellbeing as new parents.",
+    "markingGuide": [
+      "1 mark each (×2): a relevant support named and described (e.g. Maternal and Child Health service, PANDA (Perinatal Anxiety & Depression Australia), local new parents’ group, GP, antenatal classes, family and friends via phone or video).",
+      "1 mark each (×2): explains how it promotes a dimension of health and wellbeing for Priya and/or Luke, using case details (new suburb, no local network, history of anxiety).",
+      "Note: accept any accurate local or national service. Do not penalise if a correctly described service’s exact name differs slightly."
+    ],
+    "modelAnswer": "Maternal and Child Health service: This free Victorian service provides nurses who check the baby’s growth and development and support parents. The nurse can also link Priya and Luke into a local first-time parents’ group. Because they do not know anyone in their new suburb, meeting other new parents helps them build a support network, promoting their social health and wellbeing.\n\nPANDA: PANDA provides a free helpline for parents experiencing anxiety or depression before or after birth. As Priya has a history of anxiety, being able to talk to a trained counsellor can help her recognise early warning signs and learn coping strategies, reducing her stress and promoting her mental health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-06",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Risk and protective factors related to prenatal development, such as maternal diet",
+    "stimulus": "",
+    "question": "Explain how an inadequate intake of iron during pregnancy could affect prenatal development and the health of the baby after birth.",
+    "markingGuide": [
+      "1 mark: iron is needed to form haemoglobin, which carries oxygen in the blood, and blood volume increases during pregnancy.",
+      "1 mark: effect on prenatal development, e.g. less oxygen to the fetus, restricted growth, increased risk of premature birth or low birth weight.",
+      "1 mark: an effect after birth, e.g. baby born with low iron stores, increased risk of anaemia, delayed development."
+    ],
+    "modelAnswer": "Iron is needed to make haemoglobin in red blood cells, which carry oxygen around the body and across the placenta to the fetus. During pregnancy the mother’s blood volume increases, so her iron needs are higher. If her iron intake is inadequate, less oxygen may reach the fetus, which can restrict growth and increase the risk of premature birth and low birth weight. After birth, the baby may also have low iron stores, increasing their risk of iron-deficiency anaemia and delayed development in infancy.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-07",
+    "marks": 2,
+    "command": "Describe",
+    "studyDesign": "Physical, social, emotional and intellectual development in infancy and early childhood",
+    "stimulus": "",
+    "question": "Using an example, describe one characteristic of social development in early childhood (2–8 years).",
+    "markingGuide": [
+      "1 mark: an accurate characteristic of social development in early childhood, e.g. moving from parallel play to cooperative play; learning to share and take turns; forming first friendships; learning social rules at school.",
+      "1 mark: a relevant example that illustrates it.",
+      "Note: emotional characteristics (e.g. managing tantrums) do not earn the mark unless clearly framed as interaction with others."
+    ],
+    "modelAnswer": "In early childhood, children move from playing beside other children to cooperative play, where they play together and learn to share and take turns. For example, a five-year-old at kindergarten may work with two friends to build a cubby, deciding on rules together and taking turns to use the blocks.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A1-08",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "The impact of early life experiences on future health and development; the intergenerational nature of health and wellbeing",
+    "stimulus": "Case study: Lena\n\nLena grew up in a household where money was often tight and her parents worked long shifts. She was regularly read to by her grandmother, attended a free kindergarten program and played in a local soccer team. Lena is now 26, works as a primary teacher and is expecting her first child.\n\nQuestion: Using the case study, explain how Lena’s early life experiences may have influenced her later health and development, and explain how health and wellbeing can be intergenerational for Lena and her baby.",
+    "question": "Using the case study, explain how Lena’s early life experiences may have influenced her later health and development, and explain how health and wellbeing can be intergenerational for Lena and her baby.",
+    "markingGuide": [
+      "1 mark: a positive early life experience from the case (e.g. being read to, free kindergarten, playing soccer).",
+      "1 mark: explains its impact on later health or development (e.g. early literacy leading to educational success and her teaching career; physical activity habits).",
+      "1 mark: explains what intergenerational means: health, behaviours, attitudes and resources are passed from one generation to the next.",
+      "1 mark: applies this to Lena and her baby (e.g. Lena may read to her child and value education; her income as a teacher provides resources)."
+    ],
+    "modelAnswer": "Lena was regularly read to by her grandmother and attended kindergarten, which supported her early language and intellectual development. This gave her a strong foundation for learning at school, contributing to her completing a university degree and becoming a teacher, with a stable income.\n\nHealth and wellbeing is intergenerational because the health status, behaviours and resources of one generation influence the next. Because Lena valued reading and education in her own childhood, she is likely to read to her baby and encourage learning. Her stable income can also provide nutritious food and safe housing. This increases the likelihood that her child will have optimal intellectual development and good health, passing on the positive outcomes Lena experienced.\n\n------------------------------------------------------------------------\n\nU2 AOS2: Youth health literacy",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-01",
+    "marks": 3,
+    "command": "Describe",
+    "studyDesign": "Key aspects of Australia’s health system used by youth: allied health services",
+    "stimulus": "",
+    "question": "Describe what is meant by allied health services and explain how one allied health service could support the health and wellbeing of a young person.",
+    "markingGuide": [
+      "1 mark: allied health services are health services provided by university-qualified health professionals who are not doctors, nurses or dentists (e.g. physiotherapists, psychologists, dietitians).",
+      "1 mark: names an appropriate allied health service and what it provides.",
+      "1 mark: links that service to a specific improvement in a dimension of a young person’s health and wellbeing."
+    ],
+    "modelAnswer": "Allied health services are health services provided by university-qualified professionals other than doctors, nurses and dentists, such as psychologists, physiotherapists and dietitians. For example, a physiotherapist can assess a young netballer’s ankle injury and design an exercise program to strengthen the joint. This helps the young person recover function and return to sport safely, promoting their physical health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-02",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Key aspects of Australia’s health system used by youth: the NDIS",
+    "stimulus": "",
+    "question": "Describe the National Disability Insurance Scheme (NDIS) and explain how it could promote the social health and wellbeing of a young person with a disability.",
+    "markingGuide": [
+      "1 mark: the NDIS is a government scheme that provides funding to Australians with a permanent and significant disability.",
+      "1 mark: a further accurate feature, e.g. individualised plans based on goals; for people under 65 when they apply; funds supports such as therapy, equipment, support workers.",
+      "2 marks: explains how a specific NDIS-funded support increases social health and wellbeing (e.g. a support worker enabling participation in community activities, building friendships).",
+      "Note: 1 mark only for the link if it is generic (‘helps them socialise’)."
+    ],
+    "modelAnswer": "The NDIS is an Australian Government scheme that provides funding to people with a permanent and significant disability who are under 65 when they apply. Each participant has an individual plan based on their goals, which funds supports such as therapy, equipment and support workers.\n\nFor example, a young person with an intellectual disability could use their NDIS funding for a support worker to take them to a weekly youth drama group. Attending regularly would allow them to build friendships and feel included in their community, increasing their social health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-03",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "The range of services available in the local community to support the dimensions of youth health and wellbeing",
+    "stimulus": "",
+    "question": "Identify one service available in a local community to support young people and explain which dimension of health and wellbeing it supports.",
+    "markingGuide": [
+      "1 mark: names a relevant local or community service accessible to youth (e.g. a headspace centre, local youth centre, community health centre, sports club, library homework club, Kids Helpline).",
+      "1 mark: describes what the service provides.",
+      "1 mark: explains the link to a specific dimension of health and wellbeing."
+    ],
+    "modelAnswer": "A local council youth centre offers free after-school activities such as music lessons, gaming nights and homework help, run by youth workers. By attending regularly, young people meet others their age and form friendships with peers and trusted adults, increasing their sense of belonging and promoting their social health and wellbeing.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-04",
+    "marks": 4,
+    "command": "Explain",
+    "studyDesign": "Factors affecting youth’s access to health services and information",
+    "stimulus": "Case study: Sam\n\nSam, 15, moved to Melbourne from overseas a year ago. His parents speak limited English. Sam has had a persistent cough and headaches for several weeks but does not know how to book a doctor, is unsure whether it will cost money, and is embarrassed to ask his parents to come with him because they would need him to interpret.\n\nQuestion: Using information from the case study, explain two factors that may be affecting Sam’s access to health services.",
+    "question": "Using information from the case study, explain two factors that may be affecting Sam’s access to health services.",
+    "markingGuide": [
+      "2 marks each (×2): a factor named (e.g. health literacy or knowledge of the health system, cultural or language background, perceived cost, confidentiality or embarrassment, family support) and explained using Sam’s case.",
+      "Note: the two factors must be distinct. Without case evidence, maximum 1 mark per factor."
+    ],
+    "modelAnswer": "Health literacy and knowledge of the health system: Sam has only lived in Australia for a year and does not know how to book a doctor or whether it will cost money. Without this knowledge he may delay seeking care, even though his cough and headaches have lasted for weeks.\n\nCultural and language background: Sam’s parents speak limited English, so he would need to interpret for them at an appointment. He is embarrassed to ask them to come, which makes him less likely to attend a health service and discuss his symptoms.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-05",
+    "marks": 3,
+    "command": "Outline",
+    "studyDesign": "Rights and responsibilities associated with accessing health services, such as privacy and confidentiality",
+    "stimulus": "",
+    "question": "Outline two rights a 16-year-old has in relation to privacy and confidentiality when visiting a GP, and one responsibility they have when accessing health care.",
+    "markingGuide": [
+      "1 mark each (×2): two rights, e.g. personal health information kept confidential and not shared without consent (except in limited circumstances such as serious risk of harm); can attend on their own; from age 15 can hold their own Medicare card; health records stored securely.",
+      "1 mark: a responsibility, e.g. provide accurate and complete health information; be respectful; attend or cancel appointments; follow agreed treatment or ask questions.",
+      "Note: accept ‘mature minor’ concepts if accurately described."
+    ],
+    "modelAnswer": "Right 1: Information the 16-year-old shares with their GP is confidential and will not be shared with their parents or others without their consent, unless there is a serious risk to their own or someone else’s safety.\n\nRight 2: They can have their health information stored securely and can request access to their own health records.\n\nResponsibility: They should provide the GP with honest and complete information about their symptoms and history so the GP can make an accurate diagnosis.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-06",
+    "marks": 4,
+    "command": "Discuss",
+    "studyDesign": "Opportunities and challenges presented by digital media in the provision of youth health and wellbeing information",
+    "stimulus": "",
+    "question": "Discuss one opportunity and one challenge presented by digital health apps for young people.",
+    "markingGuide": [
+      "2 marks: an opportunity explained, e.g. convenient, private or anonymous access at any time; reminders and tracking that build healthy habits; low or no cost.",
+      "2 marks: a challenge explained, e.g. information may be inaccurate or not evidence-based; data privacy and sharing of personal health data; may replace professional diagnosis; access depends on device and internet.",
+      "Note: 1 mark each if stated without explaining the impact on young people’s health or health literacy."
+    ],
+    "modelAnswer": "One opportunity is that digital health apps allow young people to access health information and tools privately and at any time. For example, a young person feeling anxious late at night could use a free mental health app to practise breathing exercises, which helps them manage their symptoms without needing to book an appointment or tell anyone.\n\nOne challenge is that many health apps are not developed or checked by health professionals, so the information may be inaccurate or not evidence-based. Some apps also collect and share users’ personal health data with third parties. A young person may rely on misleading advice or have their private information shared without realising, which could delay proper treatment.",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-07",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Options for consumer complaint and redress within the health system",
+    "stimulus": "",
+    "question": "Explain the options available to a young person in Victoria who wants to make a complaint about the care they received from a health service.",
+    "markingGuide": [
+      "1 mark: first raise the complaint directly with the health service provider or the service’s complaints or patient liaison officer.",
+      "1 mark: if not resolved, contact the Health Complaints Commissioner (HCC) in Victoria, an independent body that resolves complaints about health services.",
+      "1 mark: complaints about a registered practitioner’s conduct or performance can go to AHPRA (the Australian Health Practitioner Regulation Agency), OR explains how the HCC process works (free, conciliation)."
+    ],
+    "modelAnswer": "First, the young person should try to resolve the complaint directly with the health service, for example by speaking to the practitioner or contacting the clinic or hospital’s patient liaison officer. If they are not satisfied, they can lodge a free complaint with the Health Complaints Commissioner (HCC), an independent Victorian body that helps resolve complaints between patients and health services. If the complaint is about the conduct or competence of a registered health practitioner, such as a doctor or psychologist, they can also notify the Australian Health Practitioner Regulation Agency (AHPRA).",
+    "mode": "points"
+  },
+  {
+    "id": "U2A2-08",
+    "marks": 3,
+    "command": "Explain",
+    "studyDesign": "Describe key aspects of the health system and their impact on youth health literacy and health outcomes",
+    "stimulus": "",
+    "question": "Explain how a young person having their own Medicare card from age 15 could improve their health literacy and health outcomes.",
+    "markingGuide": [
+      "1 mark: having their own card allows the young person to access GP and other Medicare services independently and confidentially, without relying on a parent.",
+      "1 mark: links to improved health literacy, e.g. learning how to book appointments, navigate the health system and ask questions about their health.",
+      "1 mark: links to an improved health outcome with direction, e.g. earlier diagnosis and treatment, reduced severity of conditions, improved mental health and wellbeing."
+    ],
+    "modelAnswer": "From age 15, young people can get their own Medicare card, which allows them to book and attend a bulk-billed GP appointment by themselves and keep their visit confidential. Doing this independently helps them learn how the health system works, such as how to make an appointment and what questions to ask, which builds their health literacy. As a result, they are more likely to seek help early for concerns they might not want to discuss with parents, such as sexual or mental health, leading to earlier diagnosis and treatment and better health outcomes.\n\n------------------------------------------------------------------------\n\nSection B: Extended response",
+    "mode": "points"
+  },
+  {
+    "id": "EXT-01",
+    "marks": 8,
+    "command": "Discuss",
+    "studyDesign": "U1 AOS3 nutrition (nutrients, sociocultural and commercial factors) with U1 AOS1 dimensions of health and wellbeing",
+    "stimulus": "Source 1: Fictional data, Youth Eating Snapshot (survey of 1 000 Victorians aged 14–18)\n\n  -------------------------------------------------------------------------------------------------------\n  Behaviour                                                           Percentage of respondents\n  ------------------------------------------------------------------- -----------------------------------\n  Ate the recommended serves of vegetables on most days               9%\n\n  Had an energy drink or soft drink 3 or more times a week            41%\n\n  Saw a food or drink advertisement on social media in the past day   87%\n\n  Had prepared a full meal for themselves in the past week            34%\n  -------------------------------------------------------------------------------------------------------\n\nSource 2: Fictional news article\n\n“A new school program, Cook It Forward, has Year 9 and 10 students planning and cooking a shared lunch each week using produce from the school garden. Teachers say students are trying vegetables they would never touch at home. ‘I didn’t know I could make something this good for under $5,’ said one Year 10 student.”\n\nBoth sources are fictional and created for practice purposes.\n\nQuestion: Using information from both sources and your own knowledge, discuss how sociocultural and commercial factors influence the food choices of young people, and how a program such as Cook It Forward could promote their health and wellbeing.",
+    "question": "Using information from both sources and your own knowledge, discuss how sociocultural and commercial factors influence the food choices of young people, and how a program such as Cook It Forward could promote their health and wellbeing.",
+    "markingGuide": [
+      "Criterion 1: explains and applies concepts (sociocultural factors such as peers, family, education, income; commercial factors such as marketing; nutrients; dimensions of health and wellbeing) accurately.",
+      "Criterion 2: draws on more than one area of study (e.g. nutrition AND dimensions of health and wellbeing or sociocultural factors from U1 AOS1).",
+      "Criterion 3: synthesises both sources with own knowledge. Data and quotes are used and signposted (e.g. ‘87% (Source 1)’), not just restated.",
+      "Criterion 4: discusses both parts of the question (influences on food choices AND how the program promotes health and wellbeing), with specific links to health outcomes and direction.",
+      "Holistic bands: 7–8 = all criteria met with detailed, accurate, well-linked discussion using both sources; 5–6 = most criteria met with some generic links or one source underused; 3–4 = some relevant knowledge but limited use of sources or links, or only one part answered; 1–2 = limited, mostly generic or restating sources; 0 = nothing relevant."
+    ],
+    "modelAnswer": "Commercial factors strongly shape young people’s food choices. 87% of young people surveyed had seen a food or drink advertisement on social media in the past day (Source 1). Companies target youth through influencers and app-only deals that make energy drinks and soft drinks appealing and cheap, which may explain why 41% had these drinks three or more times a week (Source 1). Frequent consumption increases intake of added sugar, raising the risk of dental caries and unhealthy weight gain, reducing physical health and wellbeing.\n\nSociocultural factors such as education and cooking skills also matter. Only 34% had prepared a full meal for themselves in the past week (Source 1). Without the knowledge and confidence to cook, young people rely on convenience and takeaway foods that are often low in fibre and vitamins, contributing to only 9% eating enough vegetables (Source 1). Low fibre intake increases the risk of constipation and, in the long term, bowel cancer.\n\nA program such as Cook It Forward addresses these barriers through education. Students plan and cook a shared lunch using garden produce, building practical skills and showing that healthy meals can be cheap, as one student said: ‘I didn’t know I could make something this good for under $5’ (Source 2). This improves their health literacy and makes them more likely to cook vegetables at home, increasing intake of fibre and vitamin C and promoting physical health and wellbeing. Cooking and eating together also strengthens relationships with peers and teachers, promoting social health and wellbeing, while the pride of creating a meal may increase self-esteem and mental health and wellbeing. However, the program only reaches Year 9 and 10 students at one school, so its impact may be limited unless it is expanded and supported by restrictions on marketing to youth.",
+    "mode": "holistic"
+  },
+  {
+    "id": "EXT-02",
+    "marks": 8,
+    "command": "Analyse",
+    "studyDesign": "U2 AOS1 prenatal risk and protective factors, early life experiences and intergenerational health, with U2 AOS2 health services",
+    "stimulus": "Source 1: Case study\n\nTamsin, 24, is 10 weeks pregnant. She smokes about eight cigarettes a day and often skips meals because of nausea and long work hours. Her own mother smoked during her pregnancy with Tamsin. Tamsin has recently been referred to a midwife-led antenatal clinic that offers free quit-smoking support and nutrition advice.\n\nSource 2: Fictional infographic summary\n\n“Babies of mothers who smoke during pregnancy are more likely to be born with a low birth weight. Low birth weight is linked to a higher risk of health problems in childhood and adulthood, including some chronic conditions.”\n\nBoth sources are fictional and created for practice purposes.\n\nQuestion: Using information from both sources and your own knowledge, analyse how Tamsin’s behaviours and the support available to her could affect the prenatal development and future health of her baby. In your response, refer to health and wellbeing as an intergenerational concept.",
+    "question": "Using information from both sources and your own knowledge, analyse how Tamsin’s behaviours and the support available to her could affect the prenatal development and future health of her baby. In your response, refer to health and wellbeing as an intergenerational concept.",
+    "markingGuide": [
+      "Criterion 1: explains and applies concepts accurately, e.g. teratogens (nicotine, carbon monoxide), stage of prenatal development (embryonic stage at 10 weeks, a sensitive period for organ formation), maternal diet (folate, iron), protective factors.",
+      "Criterion 2: draws on more than one area of study, e.g. prenatal development AND health services or health literacy (antenatal clinic, quit support).",
+      "Criterion 3: synthesises both sources with own knowledge. Case details and the infographic are used and signposted.",
+      "Criterion 4: analyses links between behaviours, support and outcomes for the baby (low birth weight leading to later health risk), AND explains the intergenerational concept using evidence (Tamsin’s mother smoked; Tamsin’s choices may affect her child’s future and their children).",
+      "Holistic bands: 7–8 = detailed, accurate analysis of risk and protective factors, both sources used, intergenerational concept clearly applied; 5–6 = sound but some generic links or intergenerational idea underdeveloped; 3–4 = some accurate knowledge, limited analysis or source use; 1–2 = mostly descriptive or restating; 0 = nothing relevant."
+    ],
+    "modelAnswer": "At 10 weeks Tamsin is in the embryonic stage, when the major organs are forming, making the embryo highly vulnerable to teratogens. Smoking about eight cigarettes a day (Source 1) exposes the embryo to nicotine, which narrows blood vessels in the placenta, and carbon monoxide, which reduces the oxygen the blood can carry. Less oxygen and fewer nutrients reach the embryo, restricting growth and increasing the risk of the baby being born with a low birth weight (Source 2).\n\nTamsin also often skips meals (Source 1). If her intake of folate is inadequate, the risk of neural tube defects such as spina bifida increases. Low iron reduces the oxygen-carrying capacity of her blood, further limiting growth. Together, smoking and poor diet compound the risk of low birth weight, which is linked to ‘a higher risk of health problems in childhood and adulthood, including some chronic conditions’ (Source 2), such as cardiovascular disease and type 2 diabetes. This could reduce the child’s physical health and wellbeing and future health status.\n\nHowever, the midwife-led antenatal clinic is a protective factor. Free quit-smoking support (Source 1) removes the cost barrier and gives Tamsin strategies and possibly nicotine replacement under supervision. Quitting even part-way through pregnancy reduces the baby’s exposure to teratogens. Nutrition advice builds Tamsin’s health literacy, helping her choose foods rich in folate and iron that she can tolerate despite nausea.\n\nThis case shows health and wellbeing as intergenerational. Tamsin’s own mother smoked during pregnancy (Source 1), so Tamsin may have been exposed to similar risks and grown up seeing smoking as normal, which may have influenced her own behaviour. If Tamsin quits now, her child is less likely to grow up around smoking and less likely to take it up, breaking the cycle and improving health outcomes for future generations.",
+    "mode": "holistic"
+  },
+  {
+    "id": "EXT-03",
+    "marks": 8,
+    "command": "Discuss",
+    "studyDesign": "U2 AOS2 factors affecting access, health literacy, local services, rights and digital media, with U1 AOS1 dimensions",
+    "stimulus": "Source 1: Fictional quote from a youth forum\n\n“I knew something was wrong but I didn’t want to tell my parents. I didn’t know you could see a GP on your own at 15, and I thought a psychologist would cost hundreds of dollars.” (Ruby, 16, regional Victoria)\n\nSource 2: Fictional service information\n\nYouthSpace Ballarat offers free counselling for 12–25 year olds, a drop-in GP clinic, an online chat service available until 10 pm, and a youth worker who can help young people book appointments and get their own Medicare card.\n\nBoth sources are fictional and created for practice purposes.\n\nQuestion: Using information from both sources and your own knowledge, discuss the factors that may prevent young people like Ruby from accessing mental health services, and how services such as YouthSpace Ballarat could improve youth health literacy and health outcomes.",
+    "question": "Using information from both sources and your own knowledge, discuss the factors that may prevent young people like Ruby from accessing mental health services, and how services such as YouthSpace Ballarat could improve youth health literacy and health outcomes.",
+    "markingGuide": [
+      "Criterion 1: explains and applies concepts accurately, e.g. access factors (perceived cost, confidentiality, knowledge of the system, location, stigma), health literacy, rights (own Medicare card at 15, confidentiality), digital media opportunities.",
+      "Criterion 2: draws on more than one area of study, e.g. U2 AOS2 access and services AND dimensions of health and wellbeing or sociocultural factors (U1 AOS1).",
+      "Criterion 3: synthesises both sources with own knowledge. Ruby’s quote and the YouthSpace features are referenced and signposted.",
+      "Criterion 4: discusses both parts (barriers AND how the service improves health literacy and outcomes), linking features to specific health outcomes with direction.",
+      "Holistic bands as for other extended responses: 7–8 detailed and integrated; 5–6 sound with gaps; 3–4 partial; 1–2 limited; 0 nothing relevant."
+    ],
+    "modelAnswer": "Ruby’s comments show several barriers. She ‘thought a psychologist would cost hundreds of dollars’ (Source 1), showing that perceived cost can stop young people seeking help even when free or bulk-billed options exist. She also did not want to tell her parents and ‘didn’t know you could see a GP on your own at 15’ (Source 1), reflecting low health literacy about her rights to confidentiality and to hold her own Medicare card. Living in regional Victoria may also mean fewer services and long travel times. These barriers can delay treatment, allowing symptoms of anxiety or depression to worsen and increasing psychological distress, reducing mental health and wellbeing.\n\nYouthSpace Ballarat addresses these barriers directly. Its counselling is free for 12–25 year olds (Source 2), removing the cost barrier. Its youth worker ‘can help young people book appointments and get their own Medicare card’ (Source 2), teaching them how to navigate the health system and exercise their right to confidential care. This builds health literacy, so young people like Ruby are more confident to seek help on their own in future.\n\nThe online chat service available until 10 pm (Source 2) uses digital media to reach young people who cannot travel or who feel embarrassed to attend in person, providing private access at times that suit them. However, it relies on reliable internet and devices, which some regional young people may lack.\n\nBy reducing cost, increasing knowledge and offering private options, services like YouthSpace make it more likely that young people seek help early. Early treatment can reduce the severity and duration of mental health conditions, lowering psychological distress. Reconnecting with school and friends then promotes social health and wellbeing, improving youth health outcomes overall.",
+    "mode": "holistic"
+  }
+]
