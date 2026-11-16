@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>HHD Practice Room</title>
+<meta name="description" content="VCE Health and Human Development Units 1 & 2 exam practice with marking guides and self-checking.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="styles.css">
+<style>body{margin:0}img{max-width:100%}</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="brand"><h1>HHD Practice Room</h1><span>VCE Health and Human Development · Units 1 &amp; 2</span></div>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button role="tab" id="tab-practise" aria-selected="true" data-view="practise">Practise</button>
+    <button role="tab" id="tab-progress" aria-selected="false" data-view="progress">Progress</button>
+    <button role="tab" id="tab-about" aria-selected="false" data-view="about">How it works</button>
+  </nav>
+</header>
+
+<main>
+<section class="view" id="view-practise">
+  <div class="practise">
+    <aside class="list">
+      <div class="filters">
+        <div class="chips" id="areaChips"></div>
+        <div class="listtools">
+          <label style="font-size:.82rem;display:flex;gap:6px;align-items:center"><input type="checkbox" id="onlyNew"> Only questions I haven’t tried</label>
+          <button class="btn small" id="randomBtn" type="button">Random question</button>
+        </div>
+        <div class="ov-mini" id="overallMini" aria-live="polite"></div>
+      </div>
+      <ul class="qlist" id="qlist"></ul>
+    </aside>
+    <article class="sheet" id="sheet"></article>
+  </div>
+</section>
+
+<section class="view" id="view-progress" hidden></section>
+
+<section class="view about" id="view-about" hidden>
+  <h2>How marking works</h2>
+  <p>This site doesn’t use AI to mark. When you select <strong>Check my answer</strong>, two things happen:</p>
+  <ol>
+    <li><strong>Automatic checks</strong> look for the habits that most often cost marks in VCAA exams, such as no dimension named, no direction (increase or decrease), or the case study not used. They don’t give marks. They point out things to look at.</li>
+    <li><strong>You mark it yourself</strong> against the marking guide, point by point, with the model answer beside it. Only give yourself a mark if you can point to the sentence in your answer that earns it. If you’re unsure, leave it out and ask your teacher.</li>
+  </ol>
+  <p><strong>Your self-check mark is practice only.</strong> Your teacher’s mark is the one that counts.</p>
+  <h2>Habits that cost marks</h2>
+  <ul>
+    <li><strong>Not linking.</strong> Saying “this improves physical health and wellbeing” is not enough. Show <em>how</em>: cause, then effect, then which dimension or indicator, and whether it goes up or down.</li>
+    <li><strong>Generic statements.</strong> “Increases morbidity” earns less than “increases morbidity from asthma”.</li>
+    <li><strong>Ignoring the stimulus.</strong> If a case study or data is given, quote it. Data needs numbers, units and years.</li>
+    <li><strong>Unexplained abbreviations.</strong> Write “health and wellbeing (H&amp;W)” in full the first time in each question. Study design terms such as WHO, DALY, PBS and NDIS are fine. Never abbreviate “Aboriginal and Torres Strait Islander”.</li>
+    <li><strong>Answering a different question.</strong> If it asks how <em>preventing</em> or <em>reducing</em> something helps, don’t write about the harm it causes. Read the question twice.</li>
+    <li><strong>Comparing only one group.</strong> When a question is about a difference between groups, mention both groups.</li>
+    <li><strong>Repeating one idea twice.</strong> When a question asks for two factors or two dimensions, each must be different.</li>
+  </ul>
+  <h2>Command terms</h2>
+  <table id="termTable"><tbody></tbody></table>
+  <h2>Your data</h2>
+  <p>Everything you write stays in this browser on this device. Nothing is sent anywhere, and there’s no login. Your teacher can’t see your answers, and they won’t appear on another device. If you share a computer, others using the same browser can see your saved answers. Use <strong>Clear my progress</strong> on the Progress page when you’re done. Clearing your browser data also deletes them.</p>
+</section>
+</main>
+</div>
+<script src="questions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
