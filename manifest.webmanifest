@@ -1,9 +1,0 @@
-{
-  "name": "HHD Practice Room",
-  "short_name": "HHD Practice",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#eef4f7",
-  "theme_color": "#173f5f",
-  "description": "Year 11 VCE HHD practice marking"
-}
