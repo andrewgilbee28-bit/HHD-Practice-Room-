@@ -1,10 +1,72 @@
 <!doctype html>
-<html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#173f5f"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css"><title>HHD Practice Room</title></head>
-<body><main class="shell"><header class="hero"><h1>HHD Practice Room</h1><p>Free, private Year 11 VCE Health and Human Development practice marking.</p><div class="badge">Practice feedback only · your teacher's mark is the one that counts</div></header>
-<div class="grid"><section class="card"><div class="row"><div class="grow"><div class="eyebrow">Practice question</div><h2>Choose, answer, improve</h2></div><button id="random" class="secondary">Random question</button></div>
-<label>Area<select id="area"></select></label><label>Question<select id="questionSelect"></select></label><div id="meta" class="meta"></div><div id="stimulus" class="stimulus hidden"></div><div id="question" class="question"></div>
-<label>Your answer<textarea id="answer" maxlength="5000" placeholder="Write your answer. Do not include your full name or personal details."></textarea></label><div class="small" id="count"></div>
-<div class="actions"><button id="mark" class="primary">Mark my answer</button><button id="save" class="secondary">Save draft</button><button id="clear" class="danger">Clear</button></div>
-<div class="ai"><button id="loadAI" class="secondary">Download local AI marker</button><span id="aiStatus">Optional. Requires WebGPU and a large first download.</span><progress id="aiProgress" max="1" value="0"></progress></div><div id="status" class="status">Loading question bank…</div>
-<section id="result" class="hidden"><div class="score" id="score"></div><div id="breakdown"></div><div class="feedback"><article><h3>What worked</h3><ul id="worked"></ul></article><article><h3>To earn more marks</h3><ul id="improve"></ul></article><article id="tryBox"><h3>Try writing it like this</h3><p id="tryThis"></p></article><article><h3>Approved model answer</h3><button id="reveal" class="secondary">Reveal after attempt</button><p id="model" class="hidden"></p></article></div><p class="small"><b>Reminder:</b> this is an estimated practice mark.</p></section></section>
-<aside class="card"><div class="eyebrow">This browser</div><h2>Progress</h2><div class="stats"><div><b id="attempts">0</b><span>attempts</span></div><div><b id="average">–</b><span>average</span></div></div><h3>Privacy</h3><p class="small">Answers and progress remain on this device. Local AI processing does not send answers to a marking server.</p><h3>Marker mode</h3><p id="mode">Rubric self-check</p><button id="reset" class="secondary">Reset local progress</button><p><a href="tests.html">Run package tests</a></p></aside></div></main><script type="module" src="app.js"></script></body></html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>HHD Practice Room</title>
+<meta name="description" content="VCE Health and Human Development Units 1 & 2 exam practice with marking guides and self-checking.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="styles.css">
+<style>body{margin:0}img{max-width:100%}</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="brand"><h1>HHD Practice Room</h1><span>VCE Health and Human Development · Units 1 &amp; 2</span></div>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button role="tab" id="tab-practise" aria-selected="true" data-view="practise">Practise</button>
+    <button role="tab" id="tab-progress" aria-selected="false" data-view="progress">Progress</button>
+    <button role="tab" id="tab-about" aria-selected="false" data-view="about">How it works</button>
+  </nav>
+</header>
+
+<main>
+<section class="view" id="view-practise">
+  <div class="practise">
+    <aside class="list">
+      <div class="filters">
+        <div class="chips" id="areaChips"></div>
+        <div class="listtools">
+          <label style="font-size:.82rem;display:flex;gap:6px;align-items:center"><input type="checkbox" id="onlyNew"> Only questions I haven’t tried</label>
+          <button class="btn small" id="randomBtn" type="button">Random question</button>
+        </div>
+      </div>
+      <ul class="qlist" id="qlist"></ul>
+    </aside>
+    <article class="sheet" id="sheet"></article>
+  </div>
+</section>
+
+<section class="view" id="view-progress" hidden></section>
+
+<section class="view about" id="view-about" hidden>
+  <h2>How marking works</h2>
+  <p>This site doesn’t use AI to mark. When you select <strong>Check my answer</strong>, two things happen:</p>
+  <ol>
+    <li><strong>Automatic checks</strong> look for the habits that most often cost marks in VCAA exams, such as no dimension named, no direction (increase or decrease), or the case study not used. They don’t give marks. They point out things to look at.</li>
+    <li><strong>You mark it yourself</strong> against the marking guide, point by point, with the model answer beside it. Only give yourself a mark if you can point to the sentence in your answer that earns it. If you’re unsure, leave it out and ask your teacher.</li>
+  </ol>
+  <p><strong>Your self-check mark is practice only.</strong> Your teacher’s mark is the one that counts.</p>
+  <h2>Habits that cost marks</h2>
+  <ul>
+    <li><strong>Not linking.</strong> Saying “this improves physical health and wellbeing” is not enough. Show <em>how</em>: cause, then effect, then which dimension or indicator, and whether it goes up or down.</li>
+    <li><strong>Generic statements.</strong> “Increases morbidity” earns less than “increases morbidity from asthma”.</li>
+    <li><strong>Ignoring the stimulus.</strong> If a case study or data is given, quote it. Data needs numbers, units and years.</li>
+    <li><strong>Unexplained abbreviations.</strong> Write “health and wellbeing (H&amp;W)” in full the first time in each question. Study design terms such as WHO, DALY, PBS and NDIS are fine. Never abbreviate “Aboriginal and Torres Strait Islander”.</li>
+    <li><strong>Answering a different question.</strong> If it asks how <em>preventing</em> or <em>reducing</em> something helps, don’t write about the harm it causes. Read the question twice.</li>
+    <li><strong>Comparing only one group.</strong> When a question is about a difference between groups, mention both groups.</li>
+    <li><strong>Repeating one idea twice.</strong> When a question asks for two factors or two dimensions, each must be different.</li>
+  </ul>
+  <h2>Command terms</h2>
+  <table id="termTable"><tbody></tbody></table>
+  <h2>Your data</h2>
+  <p>Everything you write stays in this browser on this device. Nothing is sent anywhere, and there’s no login. Your teacher can’t see your answers, and they won’t appear on another device. If you share a computer, others using the same browser can see your saved answers. Use <strong>Clear my progress</strong> on the Progress page when you’re done. Clearing your browser data also deletes them.</p>
+</section>
+</main>
+</div>
+<script src="questions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
